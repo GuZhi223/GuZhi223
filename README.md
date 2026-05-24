@@ -1,9 +1,9 @@
 # Hi, I'm GuZhi223
 
-一个喜欢乱折腾的人。
+一个彻头彻尾的 vibe coding 小子。
 
-平时会写一点网页、小工具、Android 应用，也会拿 AI 做些有意思的东西。
-很多项目都不是为了“做得特别标准”，而是为了先把脑子里的点子落地，跑起来，再慢慢修。
+说实话，我现在做的大部分东西都挺依赖 Claude、Codex 和 DeepSeek。
+很多项目我甚至没怎么自己 review，代码也经常不长，重点一直都不是“写得多标准”，而是先把想法做出来，跑起来，看看会长成什么样。
 
 ## 最近在做
 
@@ -19,7 +19,14 @@
 - [chaoxing-GUI-Helper](https://github.com/GuZhi223/chaoxing-GUI-Helper)  
   给自动化流程套个能直接点的界面，少一点命令行，多一点顺手。
 
-## 我常碰的东西
+## 我一般怎么做东西
+
+- 先有一个想法
+- 然后拉着 AI 一起开干
+- 先跑起来，再慢慢补
+- 能用比完美更重要
+
+## 平时会碰
 
 `JavaScript` `Python` `Kotlin` `Java` `HTML/CSS` `Android`
 
@@ -27,4 +34,4 @@
 
 - 个人站：[guzhi223.github.io](https://guzhi223.github.io/)
 
-随缘更新，但一般都在认真折腾。
+如果你也在乱折腾，欢迎来看看。
