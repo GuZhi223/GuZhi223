@@ -1,51 +1,30 @@
 # Hi, I'm GuZhi223
 
-我在折腾网页、小工具、Android 和一点 AI 应用。
+一个喜欢乱折腾的人。
 
-- 主要用 JavaScript、Python、Kotlin/Java
-- 喜欢把点子尽快做成能跑的东西
-- GitHub Pages: [guzhi223.github.io](https://guzhi223.github.io/)
+平时会写一点网页、小工具、Android 应用，也会拿 AI 做些有意思的东西。
+很多项目都不是为了“做得特别标准”，而是为了先把脑子里的点子落地，跑起来，再慢慢修。
 
-## What I'm Building
+## 最近在做
 
-- `milk`：AI 驱动的数字分身对话系统，围绕 persona、记忆检索和纠正反馈做持续迭代
-- `WeChatVConsole`：给微信内置浏览器注入 vConsole 和自定义脚本的 LSPosed 模块
-- `wzj-sign`：基于微助教微信 API 的 Android 自动签到工具
-- `chaoxing-GUI-Helper`：给学习通/超星自动化流程配的一套 GUI 启动器
+- [milk](https://github.com/GuZhi223/milk)  
+  想把“聊天”这件事做得更像一个人，而不是模板回复。
 
-## Featured Projects
+- [WeChatVConsole](https://github.com/GuZhi223/WeChatVConsole)  
+  给微信内置浏览器加调试能力，主要是方便折腾 H5。
 
-### [milk](https://github.com/GuZhi223/milk)
-从固定话术升级到 AI 实时生成的数字分身对话系统，重点在 persona 构建、上下文检索和纠正反馈闭环。
+- [wzj-sign](https://github.com/GuZhi223/wzj-sign)  
+  一个 Android 自动签到工具，顺手也拿它练 UI 和交互。
 
-### [WeChatVConsole](https://github.com/GuZhi223/WeChatVConsole)
-面向微信 H5 调试场景的 LSPosed 模块，支持注入 vConsole、自定义脚本和域名匹配。
+- [chaoxing-GUI-Helper](https://github.com/GuZhi223/chaoxing-GUI-Helper)  
+  给自动化流程套个能直接点的界面，少一点命令行，多一点顺手。
 
-### [wzj-sign](https://github.com/GuZhi223/wzj-sign)
-Android 原生自动签到工具，支持多账号、定位模拟和更现代的 Compose/Miuix UI。
+## 我常碰的东西
 
-### [qqzone-fetch](https://github.com/GuZhi223/qqzone-fetch)
-批量抓取 QQ 空间动态的小工具，支持去重、导出和图片下载。
+`JavaScript` `Python` `Kotlin` `Java` `HTML/CSS` `Android`
 
-## Tech I Use
+## 另外一个入口
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android)
+- 个人站：[guzhi223.github.io](https://guzhi223.github.io/)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuZhi223&show_icons=true&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuZhi223&layout=compact&hide_border=true)
-
-## Find Me
-
-- GitHub: [@GuZhi223](https://github.com/GuZhi223)
-- Website: [guzhi223.github.io](https://guzhi223.github.io/)
-
-持续更新中。
+随缘更新，但一般都在认真折腾。
