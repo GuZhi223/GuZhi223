@@ -1,6 +1,6 @@
 # Hi, I'm GuZhi223
 
-二本大一 CS 在读，一个挺依赖 Claude、Codex 和 DeepSeek 的 vibe coding 小子。
+二本大一 CS 在读，一个挺依赖 Codex 和 DeepSeek 的 vibe coding 小子。
 
 我现在做的大部分东西，都不是那种一个字一个字硬敲出来的传统路子。
 很多时候更像是：先冒出一个想法，再拉着 AI 一起把它慢慢拽成能跑的东西。
